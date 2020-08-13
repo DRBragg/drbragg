@@ -1,4 +1,4 @@
-# Hi there, I'm [Drew](https://www.drbragg.ninja/)
+# Hey there, I'm [Drew](https://www.drbragg.ninja/)
 
 [<img src='https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white' alt='dev' height='30'>](https://dev.to/DRBragg)
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/drbragg/)
@@ -7,7 +7,7 @@
 
 #### Ruby && Ruby on Rails || JavaScript && (Vue.js || Stimulus.js)
 
-Full stack developer experienced with Ruby on Rails, Stimulus, Vue.js and more on a small team creating custom solutions for a variety of clients. I am a self-motivated and largely self-taught professional who likes to dig into problems and is always eager to learn. I'm passionate about the web, and excited to live in a time of such rapid progress. It means seeing innovative things every day, constantly learning, and always trying to improve. That sounds overenthusiastic, but I really mean it.
+I'm a Full-Stack developer experienced with Ruby on Rails, Stimulus, Vue.js and more on a small team creating custom solutions for a variety of clients. I am a self-motivated and largely self-taught professional who likes to dig into problems and is always eager to learn. I'm passionate about the web, and excited to live in a time of such rapid progress. It means seeing innovative things every day, constantly learning, and always trying to improve. That sounds overenthusiastic, but I really mean it.
 
 <hr>
 
