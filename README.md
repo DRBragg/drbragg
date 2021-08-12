@@ -1,4 +1,4 @@
-# :wave: Hey there, I'm [Drew](https://www.drbragg.ninja/)
+# :wave: Hey there, I'm [Drew](https://drbragg.dev/)
 
 [<img src='https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white' alt='dev' height='30'>](https://dev.to/DRBragg)
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/drbragg/)
