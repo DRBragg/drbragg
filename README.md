@@ -1,14 +1,17 @@
 # :wave: Hey there, I'm [Drew](https://drbragg.dev/)
 
+[<img src='https://img.shields.io/badge/Podcast-blue.svg?&style=for-the-badge&logo=overcast&logoColor=white' alt='podcast' height='30'>](https://podcast.drbragg.dev/)
+[<img src='https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/DRBragg)
+[<img src='https://img.shields.io/badge/Website-%23FF4500.svg?&style=for-the-badge&logo=dtube&logoColor=white' alt='website' height='30'>](https://DRBragg.dev)
 [<img src='https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white' alt='dev' height='30'>](https://dev.to/DRBragg)
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/drbragg/)
-[<img src='https://img.shields.io/badge/Website-%23FF4500.svg?&style=for-the-badge&logo=dtube&logoColor=white' alt='website' height='30'>](https://DRBragg.dev)
 [<img src='https://img.shields.io/badge/email-%235522FA.svg?&style=for-the-badge&logo=hey&logoColor=white' alt='email' height='30'>](mailto:drbragg@hey.com)
-[<img src='https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/DRBragg)
+
+
 
 #### Ruby && Ruby on Rails || JavaScript && Stimulus.js
 
-I'm currently a Staf Engineer @ Within3. I am a Ruby professional who likes to dig into problems and is always eager to learn. I'm passionate about the web, and excited to live in a time of such rapid progress. It means seeing innovative things every day, constantly learning, and always trying to improve. That sounds overenthusiastic, but I really mean it.
+I'm currently a Staf Engineer @ [Within3](https://within3.com/) and host of the [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) podcast. I am a Ruby professional who likes to dig into problems and is always eager to learn. I'm passionate about the web, and excited to live in a time of such rapid progress. It means seeing innovative things every day, constantly learning, and always trying to improve. That sounds overenthusiastic, but I really mean it.
 
 ---
 
