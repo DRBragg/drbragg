@@ -11,7 +11,7 @@
 
 #### Ruby && Ruby on Rails || JavaScript && Stimulus.js
 
-I'm currently a Staff Engineer @ [Within3](https://within3.com/) and host of the [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) podcast. I am a Ruby professional who likes to dig into problems and is always eager to learn. I'm passionate about the web, and excited to live in a time of such rapid progress. It means seeing innovative things every day, constantly learning, and always trying to improve. That sounds overenthusiastic, but I really mean it.
+I'm formerly a Staff Engineer @ [Within3](https://within3.com/), soon to be Senior Developer @ [Podia](https://www.podia.com/), and host of the [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/) podcast. I am a Ruby professional who likes to dig into problems and is always eager to learn. I'm passionate about the web, and excited to live in a time of such rapid progress. It means seeing innovative things every day, constantly learning, and always trying to improve. That sounds overenthusiastic, but I really mean it.
 
 ---
 
