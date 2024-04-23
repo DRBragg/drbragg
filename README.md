@@ -26,21 +26,21 @@ I'm formerly a Staff Engineer @ [Within3](https://within3.com/), soon to be Seni
 
 ![](https://img.shields.io/badge/Ruby_on_Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=CC0000)
 ![](https://img.shields.io/badge/Stimulus-informational?style=flat&logo=basecamp&logoColor=white&color=d9c6a4)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 
 <summary>Technologies</summary>
 
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/JSON-informational?style=flat&logo=json&logoColor=white&color=000000)
-![](https://img.shields.io/badge/JWT-informational?style=flat&logo=json-web-tokens&logoColor=white&color=000000)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 
 <details>
 <summary>Other Tech && Tools I've used</summary>
 
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/JWT-informational?style=flat&logo=json-web-tokens&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/JSON-informational?style=flat&logo=json&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=563D7C)
